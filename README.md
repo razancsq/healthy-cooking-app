@@ -31,6 +31,8 @@ HealthyCooking is designed as a native mobile application for iOS and Android.
 
 ## Documentation
 
+`HealthyCooking_Project_Report.docx` / `HealthyCooking_Project_Report.pdf` in the repository root is a summary report covering the project as a whole.
+
 Full project documentation is available in the `docs/` folder:
 
 - `Project_Proposal.docx` / `Project_Proposal.pdf`: project proposal and objectives
@@ -38,4 +40,3 @@ Full project documentation is available in the `docs/` folder:
 - `SDS.pdf`: software design specification
 - `SPMP.pdf`: software project management plan
 - `STP.pdf`: software test plan
-- `HealthyCooking_Project_Report.docx` / `HealthyCooking_Project_Report.pdf`: summary report covering the project as a whole
